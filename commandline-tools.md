@@ -4,6 +4,7 @@ These are tools I've created I thought would be worth to mention
 
 ## [create-repository](https://github.com/freeall/create-repository)
 
+![create-repository](/create-repository.png)
 Creates a github repository from the command line. Either pass `--name` and `--description` or it reads a `package.json` file in currect folder.
 
 ## [dependency-hunter](https://github.com/freeall/dependency-hunter)
