@@ -1,6 +1,6 @@
 # Cafe workplaces
 
-These are places I can go to work. Wifi passwords included.
+These are places you can go to work. Wifi passwords included.
 
 
 ## [Kaffehuset, Copenhagen](https://www.facebook.com/kaffehuset44/)
