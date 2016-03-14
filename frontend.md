@@ -1,6 +1,6 @@
-# Frontend tools
+# Frontend
 
-This is a list of tools that I would normally forget that was good to use and thus wouldn't search for.
+This is a list of resources that I would normally forget that was good to use and thus wouldn't search for.
 
 ## [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 
