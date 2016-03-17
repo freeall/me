@@ -9,6 +9,8 @@ Cost   | Name              | Type         | Text
 
 ## Allies
 
+Cost   | Name              | Type         | Text
+------ | ----------------- | ------------ | ----
 2R     | Taurean Mauler    | Creature     | Changeling. When opponent plays spell get +1/+1 ctr
 2W     | Mirror Entity     | Creature     | Changeling. X: Creatures you control get +X/+X until eot and gain all creature types
 4G     | All Suns' Dawn    | Sorcery      | For each color, return one card of that color from graveyard to hand
@@ -16,6 +18,8 @@ Cost   | Name              | Type         | Text
 
 ## Misc
 
+Cost   | Name              | Type         | Text
+------ | ----------------- | ------------ | ----
 4GG    | Bane of Progress  | Creature     | When ~ etb, destroy all arts and enchts. Get +1/+1 for each art or encht.
 2UU    | Slithermuse       | Creature     | When ~ leaves play, if oponet has more cards than you, draw difference. Evoke 3U
 5WW    | Enduring Ideal    | Sorcery      | Search for enchantment, put into play.  Epic - For the rest of the game you cannot play spells, play this every upkeep
