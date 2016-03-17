@@ -1,3 +1,7 @@
+# Interesting Magic cards
+
+Cards that are interesting for some reason and I want to look more into
+
 ## Ramp
 
 Cost   | Name              | Type         | Text
