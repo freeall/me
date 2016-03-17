@@ -1,5 +1,7 @@
 ## Ramp
 
+Cost   | Name              | Type         | Text
+------ | ----------------- | ------------ | ----
 1G     | Fertile Ground    | Enchant land | Whenever becomes tapped, add one mana
 1G     | Farseek           | Sorcery      | Search for Plains, Island, Swamp, Mountain, put into play tapped
 2G     | Fertilid          | Creature     | Has 2 +1/+1 ctr. 1G remove ctr, target player finds basic land, shuffles deck
