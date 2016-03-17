@@ -11,3 +11,5 @@ Not sure what I'll put here. Either something about me, or a repo where I'll put
 **[Frontend](/frontend.md)**
 
 **[Cafe as workplaces](/cafe-workplace.md)**
+
+**[Interesting Magic cards](/mtg-interesting.md)**
