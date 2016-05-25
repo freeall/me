@@ -12,7 +12,7 @@ Address: Nørrebrogade 44, 2200 Kbh N
 Wifi: Kaffehuset44/godkaffe
 
 
-## [Mellemrummet, Copenhagen](https://github.com/freeall/dependency-hunter)
+## [Mellemrummet, Copenhagen](https://www.facebook.com/mellemrummet)
 
 Lots of seats. Beers. Sometimes has events. Not particularly quiet.
 
